@@ -2,8 +2,28 @@
 layout: default
 ---
 
-<h1>My first site</h1>
+<h1>Introduction</h1>
 
-[Link to another page](./another-page.html).
+Welcome to my website! My name is Logan Johnson and I'm a Computer Science Major at Weber State University. I originally was a Electrical Engineering Major but I just love coding too much. This website will host all of my projects that I'll work on.
+
+<h1>Example of a bulleted list<h1>
+
+*   Red
+*   Orange
+*   Yellow
+*   Green
+*   Blue
+*   Indigo
+*   Violet
+
+<h1>Example of a table<h1>
+| Equations | Answer | Equation Type  |
+|:----------|:-------|:---------------|
+| 2 + 2     | 4      | Addition       |
+| 5 * 5     | 25     | Multiplication |
+| 25 / 5    | 5      | Division       |
+| 102 - 65  | 37     | Subtraction    |
+
+[Link to another page](./projects.md).
 
 [Github Themes](https://pages.github.com/themes/)

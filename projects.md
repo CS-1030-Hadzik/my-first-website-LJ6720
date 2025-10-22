@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "My Home Page"
+title: "My Projects Page"
 ---
 
 This is my website
